@@ -1,7 +1,9 @@
-## Curse Ball
+## Curse Ball 
 
 
 X: https://x.com/CurseBall 
+
+
 
 Welcome To Curseball!
 
@@ -16,8 +18,13 @@ simple, right?
 
 ![2S1juU](https://github.com/user-attachments/assets/bd18fd80-82de-4027-a136-b6345ad61db4)
 
-inside you'll find:
-> 14 different curses & worlds!
-> many colour palettes to unlock
-> overuse of amen break
+## inside you'll find:
+
+14 different curses & worlds!
+
+many colour palettes to unlock
+
+overuse of amen break
+
+A secret easter egg to find and claim $CURSEBALL
 
