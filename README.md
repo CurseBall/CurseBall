@@ -26,7 +26,7 @@ many colour palettes to unlock
 
 overuse of amen break
 
-a secret easter egg to find and claim $CURSEBALL
+a secret easter egg to find and claim $CBAI
 
 ## secret tips!
 
