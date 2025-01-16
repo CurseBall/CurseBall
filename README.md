@@ -28,3 +28,12 @@ overuse of amen break
 
 A secret easter egg to find and claim $CURSEBALL
 
+## secret tips!
+
+kicking the ball restores your jump!
+
+hit the ball without landing to gather combo points!
+
+lose no health on a stage to gain a life bonus!
+
+complete a stage really fast to gain a time bonus! 
